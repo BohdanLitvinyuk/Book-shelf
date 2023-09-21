@@ -1,4 +1,4 @@
-# Book-shelf
+# Book-shelf  https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Bookshelf?type=design&mode=design
 API з книгами:	https://books-backend.p.goit.global/api-docs/
 Перелік категорій книг	https://books-backend.p.goit.global/books/category-list 
 Популярні книги, що належать до усіх категорій	https://books-backend.p.goit.global/books/top-books 
